@@ -7,7 +7,7 @@ trigger:
 - none
 
 pool:
-  name: 'defailt'
+  name: 'default'
 
 steps:
 - script: echo Hello, world!
