@@ -7,7 +7,7 @@ trigger:
 - none
 
 pool:
-  name: 'luayalAgent'
+  name: 'Default'
 
 steps:
 - script: echo Hello, world!
