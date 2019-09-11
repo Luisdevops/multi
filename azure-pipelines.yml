@@ -7,7 +7,7 @@ trigger:
 - none
 
 pool:
-  name: 'Dominik''s Pool'
+  name: 'defailt'
 
 steps:
 - script: echo Hello, world!
